@@ -171,7 +171,7 @@
                 link.classList.remove('menu__item2--showDeco');
             })
         });
-        window.open("https://camp.chanceyouth.org/","_self")
+        window.open("https://retreat.chanceyouth.org/","_self")
 
         current = pos;
         const currentBlob = blobs[current];
